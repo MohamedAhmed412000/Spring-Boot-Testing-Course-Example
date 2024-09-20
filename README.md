@@ -1,2 +1,1 @@
-# Spring-Boot-Testing-Example
-Spring Boot Testing Example Project
+Spring-Boot-Testing-Course-Example
